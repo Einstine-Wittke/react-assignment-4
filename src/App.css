@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  background: rgb(9, 9, 61);
+  font-family: cursive;
+  font-weight: 600;
+}
+
+Link {
+  color: white;
+}
+
+.student {
+  margin-left: 50rem;
+  border-radius: 2rem;
+  font-family: cursive;
+  margin-bottom: 1rem;
+}
+
+.table {
+  justify-content: center;
+  margin-left: 2rem;
+  width: 93%;
+  background-color: antiquewhite;
+}
+
+.details {
+  position: relative;
+  top: 2rem;
+  left: 2rem;
+  font-family: cursive;
+  font-weight: 520;
+}
+
+label {
+  margin: 33px;
+  padding: 6px;
+  font-size: 20px;
+  font-weight: 500;
+  position: relative;
+  /* top: -18px; */
+  left: 35px;
+  bottom: 1rem;
+}
+
+input {
+  width: 12rem;
+  height: 3rem;
+}
